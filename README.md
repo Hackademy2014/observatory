@@ -1,0 +1,4 @@
+observatory
+===========
+
+www.mountwashington.org
