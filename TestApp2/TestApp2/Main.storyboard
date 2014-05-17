@@ -119,6 +119,16 @@
                                     <segue destination="6h2-h6-YeM" kind="modal" id="Pns-vs-1tq"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HrL-2Q-52z">
+                                <rect key="frame" x="37" y="326" width="60" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Webcam">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <segue destination="QjY-yh-JjH" kind="modal" id="Zfa-uX-DdE"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
@@ -295,6 +305,34 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FXt-S3-BIp" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="581" y="296"/>
+        </scene>
+        <!--The Pres View Controller-->
+        <scene sceneID="h3n-QT-Lxq">
+            <objects>
+                <viewController id="QjY-yh-JjH" customClass="ThePresViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="bcy-78-TS2"/>
+                        <viewControllerLayoutGuide type="bottom" id="uRP-Vp-a9e"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="GLE-v7-8Kd">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <webView contentMode="scaleToFill" fixedFrame="YES" scalesPageToFit="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Ynl-MJ-Odm">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            </webView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <connections>
+                        <outlet property="thePres" destination="Ynl-MJ-Odm" id="kUg-bR-6IU"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="8st-xu-iQ2" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="134" y="-591"/>
         </scene>
         <!--Weather Picture View Controller-->
         <scene sceneID="Fv5-TV-rw4">

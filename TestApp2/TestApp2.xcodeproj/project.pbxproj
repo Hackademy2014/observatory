@@ -29,6 +29,13 @@
 		69BC0F391927CD8E001B3B79 /* DMRViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 69BC0F381927CD8E001B3B79 /* DMRViewController.m */; };
 		69BC0F3B1927CF3E001B3B79 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69BC0F3A1927CF3E001B3B79 /* CoreLocation.framework */; };
 		69BC0F411927D0A0001B3B79 /* MWGPSViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 69BC0F3F1927D0A0001B3B79 /* MWGPSViewController.m */; };
+		69BC0F441927E3CC001B3B79 /* ThePresViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 69BC0F431927E3CC001B3B79 /* ThePresViewController.m */; };
+		69BC0F481927E5BA001B3B79 /* TheRaviViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 69BC0F471927E5BA001B3B79 /* TheRaviViewController.m */; };
+		69BC0F4B1927E61E001B3B79 /* FromAttiViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 69BC0F4A1927E61E001B3B79 /* FromAttiViewController.m */; };
+		69BC0F4E1927E6BD001B3B79 /* FromJackViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 69BC0F4D1927E6BD001B3B79 /* FromJackViewController.m */; };
+		69BC0F511927E73A001B3B79 /* NorthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 69BC0F501927E73A001B3B79 /* NorthViewController.m */; };
+		69BC0F541927E77D001B3B79 /* WestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 69BC0F531927E77D001B3B79 /* WestViewController.m */; };
+		69BC0F571927E7DF001B3B79 /* ObsDeckViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 69BC0F561927E7DF001B3B79 /* ObsDeckViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,6 +82,20 @@
 		69BC0F3A1927CF3E001B3B79 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		69BC0F3F1927D0A0001B3B79 /* MWGPSViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MWGPSViewController.m; sourceTree = "<group>"; };
 		69BC0F401927D0A0001B3B79 /* MWGPSViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MWGPSViewController.h; sourceTree = "<group>"; };
+		69BC0F421927E3CC001B3B79 /* ThePresViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ThePresViewController.h; path = TestApp2/ThePresViewController.h; sourceTree = "<group>"; };
+		69BC0F431927E3CC001B3B79 /* ThePresViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ThePresViewController.m; path = TestApp2/ThePresViewController.m; sourceTree = "<group>"; };
+		69BC0F461927E5BA001B3B79 /* TheRaviViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TheRaviViewController.h; sourceTree = "<group>"; };
+		69BC0F471927E5BA001B3B79 /* TheRaviViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TheRaviViewController.m; sourceTree = "<group>"; };
+		69BC0F491927E61E001B3B79 /* FromAttiViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FromAttiViewController.h; path = TestApp2/FromAttiViewController.h; sourceTree = "<group>"; };
+		69BC0F4A1927E61E001B3B79 /* FromAttiViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FromAttiViewController.m; path = TestApp2/FromAttiViewController.m; sourceTree = "<group>"; };
+		69BC0F4C1927E6BD001B3B79 /* FromJackViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FromJackViewController.h; sourceTree = "<group>"; };
+		69BC0F4D1927E6BD001B3B79 /* FromJackViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FromJackViewController.m; sourceTree = "<group>"; };
+		69BC0F4F1927E73A001B3B79 /* NorthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NorthViewController.h; sourceTree = "<group>"; };
+		69BC0F501927E73A001B3B79 /* NorthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NorthViewController.m; sourceTree = "<group>"; };
+		69BC0F521927E77D001B3B79 /* WestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WestViewController.h; sourceTree = "<group>"; };
+		69BC0F531927E77D001B3B79 /* WestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WestViewController.m; sourceTree = "<group>"; };
+		69BC0F551927E7DF001B3B79 /* ObsDeckViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ObsDeckViewController.h; sourceTree = "<group>"; };
+		69BC0F561927E7DF001B3B79 /* ObsDeckViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ObsDeckViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +127,7 @@
 		69BC0EE5192799CC001B3B79 = {
 			isa = PBXGroup;
 			children = (
+				69BC0F451927E3DA001B3B79 /* Webcams */,
 				69BC0F2219279C44001B3B79 /* hpple */,
 				69BC0EF7192799CC001B3B79 /* TestApp2 */,
 				69BC0F10192799CD001B3B79 /* TestApp2Tests */,
@@ -196,6 +218,27 @@
 				69BC0F2819279CFF001B3B79 /* XPathQuery.m */,
 			);
 			name = hpple;
+			sourceTree = "<group>";
+		};
+		69BC0F451927E3DA001B3B79 /* Webcams */ = {
+			isa = PBXGroup;
+			children = (
+				69BC0F491927E61E001B3B79 /* FromAttiViewController.h */,
+				69BC0F4A1927E61E001B3B79 /* FromAttiViewController.m */,
+				69BC0F4C1927E6BD001B3B79 /* FromJackViewController.h */,
+				69BC0F4D1927E6BD001B3B79 /* FromJackViewController.m */,
+				69BC0F4F1927E73A001B3B79 /* NorthViewController.h */,
+				69BC0F501927E73A001B3B79 /* NorthViewController.m */,
+				69BC0F521927E77D001B3B79 /* WestViewController.h */,
+				69BC0F531927E77D001B3B79 /* WestViewController.m */,
+				69BC0F551927E7DF001B3B79 /* ObsDeckViewController.h */,
+				69BC0F561927E7DF001B3B79 /* ObsDeckViewController.m */,
+				69BC0F421927E3CC001B3B79 /* ThePresViewController.h */,
+				69BC0F431927E3CC001B3B79 /* ThePresViewController.m */,
+				69BC0F461927E5BA001B3B79 /* TheRaviViewController.h */,
+				69BC0F471927E5BA001B3B79 /* TheRaviViewController.m */,
+			);
+			name = Webcams;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -294,13 +337,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				69BC0F511927E73A001B3B79 /* NorthViewController.m in Sources */,
+				69BC0F4E1927E6BD001B3B79 /* FromJackViewController.m in Sources */,
+				69BC0F441927E3CC001B3B79 /* ThePresViewController.m in Sources */,
 				69BC0F391927CD8E001B3B79 /* DMRViewController.m in Sources */,
+				69BC0F481927E5BA001B3B79 /* TheRaviViewController.m in Sources */,
 				69BC0F331927A6A7001B3B79 /* WeatherPictureViewController.m in Sources */,
+				69BC0F4B1927E61E001B3B79 /* FromAttiViewController.m in Sources */,
 				69BC0F2A19279CFF001B3B79 /* TFHppleElement.m in Sources */,
 				69BC0F411927D0A0001B3B79 /* MWGPSViewController.m in Sources */,
 				69BC0F02192799CC001B3B79 /* AppDelegate.m in Sources */,
 				69BC0F2B19279CFF001B3B79 /* XPathQuery.m in Sources */,
 				69BC0F2919279CFF001B3B79 /* TFHpple.m in Sources */,
+				69BC0F571927E7DF001B3B79 /* ObsDeckViewController.m in Sources */,
+				69BC0F541927E77D001B3B79 /* WestViewController.m in Sources */,
 				69BC0F3019279E39001B3B79 /* ConditionsViewController.m in Sources */,
 				69BC0EFE192799CC001B3B79 /* main.m in Sources */,
 			);

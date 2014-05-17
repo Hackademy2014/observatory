@@ -44,8 +44,8 @@
     self.temp.text = condishArray[0];
     self.wind.text = condishArray[1];
     self.direc.text = condishArray[2];
-    self.gust.text = condishArray[3];
-    self.chill.text = condishArray[4];
+    //self.gust.text = condishArray[3];
+    //self.chill.text = condishArray[4];
     
     NSString *timeXpath = @"//td[@class='MWOconditionsTime']";
     NSArray *timeNodes = [mWParser searchWithXPathQuery: timeXpath];
