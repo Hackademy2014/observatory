@@ -1,0 +1,1071 @@
+TMWOBS
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch.pch MWOBS/MWOBS-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/Reachability.o /Users/cgraham/Source/observatory/MWOBS/Reachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWSettingsViewController.o /Users/cgraham/Source/observatory/MWOBS/MWSettingsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ThePresViewController.o /Users/cgraham/Source/observatory/ThePresViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWAppDelegate.o /Users/cgraham/Source/observatory/MWOBS/MWAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheAboutViewController.o /Users/cgraham/Source/observatory/MWOBS/TheAboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/XPathQuery.o /Users/cgraham/Source/observatory/XPathQuery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ConditionsViewController.o /Users/cgraham/Source/observatory/MWOBS/ConditionsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WestViewController.o /Users/cgraham/Source/observatory/WestViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/main.o /Users/cgraham/Source/observatory/MWOBS/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWGPSViewController.o /Users/cgraham/Source/observatory/MWOBS/MWGPSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromJackViewController.o /Users/cgraham/Source/observatory/FromJackViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ObsDeckViewController.o /Users/cgraham/Source/observatory/ObsDeckViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheRaviViewController.o /Users/cgraham/Source/observatory/TheRaviViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/NorthViewController.o /Users/cgraham/Source/observatory/NorthViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/DMRViewController.o /Users/cgraham/Source/observatory/MWOBS/DMRViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WeatherPictureViewController.o /Users/cgraham/Source/observatory/MWOBS/WeatherPictureViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWEmailListViewController.o /Users/cgraham/Source/observatory/MWOBS/MWEmailListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWUpcomingViewController.o /Users/cgraham/Source/observatory/MWOBS/MWUpcomingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromAttiViewController.o /Users/cgraham/Source/observatory/FromAttiViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHppleElement.o /Users/cgraham/Source/observatory/TFHppleElement.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWOngoingViewController.o /Users/cgraham/Source/observatory/MWOBS/MWOngoingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHpple.o /Users/cgraham/Source/observatory/TFHpple.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWOBS normal i386
+cCpResource June\ Rogier.jpg DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/June\ Rogier.jpg
+cCpResource IMG_6158.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_6158.JPG
+cCpResource Scott\ Badger.jpg DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/Scott\ Badger.jpg
+cCpResource IMG_5958.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_5958.JPG
+cCpResource /Users/cgraham/MWLogo.png DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWLogo.png
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000535B1C1900000000000003B4
+t1398479897
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000535B1C28000000000000019E
+t1398479912
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000535B1C2B0000000000446820
+t1398479915
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000535B1C2B00000000000F1A80
+t1398479915
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000535B1C2D000000000088D8C0
+t1398479917
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c00000000535B1C2E00000000002E5520
+t1398479918
+s3036448
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000535B1C3000000000001081C0
+t1398479920
+s1081792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000535B1C340000000001F1DE10
+t1398479924
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libxml2.dylib
+c00000000535B1C4F0000000000267B60
+t1398479951
+s2521952
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000535B1C670000000000000ADC
+t1398479975
+s2780
+
+N/Users/cgraham/MWLogo.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ConditionsViewController.o
+t1400762177
+s58784
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/DMRViewController.o
+t1400762177
+s63652
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromAttiViewController.o
+t1400762177
+s44124
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromJackViewController.o
+t1400762177
+s44124
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWAppDelegate.o
+t1400762176
+s65948
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWEmailListViewController.o
+t1400762177
+s68204
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWGPSViewController.o
+t1400762177
+s76888
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWOBS.LinkFileList
+c00000000537DEF3F0000000000000DB8
+t1400762175
+s3512
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWOngoingViewController.o
+t1400762177
+s41844
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWSettingsViewController.o
+t1400762176
+s50752
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWUpcomingViewController.o
+t1400762177
+s42624
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/NorthViewController.o
+t1400762177
+s43992
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ObsDeckViewController.o
+t1400762177
+s44076
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/Reachability.o
+t1400762177
+s21328
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHpple.o
+t1400762177
+s17644
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHppleElement.o
+t1400762177
+s30036
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheAboutViewController.o
+t1400762177
+s48520
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ThePresViewController.o
+t1400762176
+s44092
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheRaviViewController.o
+t1400762177
+s44084
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WeatherPictureViewController.o
+t1400762177
+s44552
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WestViewController.o
+t1400762177
+s43952
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/XPathQuery.o
+t1400762177
+s24324
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/main.o
+t1400762177
+s3856
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch.pch
+t1400762176
+s115400
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_4606.JPG
+t2
+s0
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_5958.JPG
+t2
+s0
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_6158.JPG
+t2
+s0
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/June Rogier.jpg
+t2
+s0
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWLogo.png
+t2
+s0
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWOBS
+t2
+s0
+
+N/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/Scott Badger.jpg
+t2
+s0
+
+N/Users/cgraham/Source/observatory/FromAttiViewController.m
+c00000000537DEE8D000000000000052D
+t1400761997
+s1325
+
+N/Users/cgraham/Source/observatory/FromJackViewController.m
+c00000000537DEE8D000000000000052B
+t1400761997
+s1323
+
+N/Users/cgraham/Source/observatory/IMG_4606.JPG
+c00000000537DEE8E00000000005512E2
+t1400761998
+s5575394
+
+N/Users/cgraham/Source/observatory/IMG_5958.JPG
+c00000000537DEE8E000000000067EF86
+t1400761998
+s6811526
+
+N/Users/cgraham/Source/observatory/IMG_6158.JPG
+c00000000537DEE8E000000000072BE15
+t1400761998
+s7519765
+
+N/Users/cgraham/Source/observatory/June Rogier.jpg
+c00000000537DEE8E00000000000390A9
+t1400761998
+s233641
+
+N/Users/cgraham/Source/observatory/MWOBS/ConditionsViewController.m
+c00000000537DEE8E0000000000000DCB
+t1400761998
+s3531
+
+N/Users/cgraham/Source/observatory/MWOBS/DMRViewController.m
+c00000000537DEE8E0000000000000BCD
+t1400761998
+s3021
+
+N/Users/cgraham/Source/observatory/MWOBS/MWAppDelegate.m
+c00000000537DEE8E0000000000000D55
+t1400761998
+s3413
+
+N/Users/cgraham/Source/observatory/MWOBS/MWEmailListViewController.m
+c00000000537DEE8E0000000000000F46
+t1400761998
+s3910
+
+N/Users/cgraham/Source/observatory/MWOBS/MWGPSViewController.m
+c00000000537DEE8E00000000000017B6
+t1400761998
+s6070
+
+N/Users/cgraham/Source/observatory/MWOBS/MWOBS-Prefix.pch
+c00000000537DEE8E0000000000000158
+t1400761998
+s344
+
+N/Users/cgraham/Source/observatory/MWOBS/MWOngoingViewController.m
+c00000000537DEE8E000000000000056D
+t1400761998
+s1389
+
+N/Users/cgraham/Source/observatory/MWOBS/MWSettingsViewController.m
+c00000000537DEE8E0000000000000B70
+t1400761998
+s2928
+
+N/Users/cgraham/Source/observatory/MWOBS/MWUpcomingViewController.m
+c00000000537DEE8E000000000000060F
+t1400761998
+s1551
+
+N/Users/cgraham/Source/observatory/MWOBS/Reachability.m
+c00000000537DEE8E0000000000002591
+t1400761998
+s9617
+
+N/Users/cgraham/Source/observatory/MWOBS/TheAboutViewController.m
+c00000000537DEE8E0000000000000BFA
+t1400761998
+s3066
+
+N/Users/cgraham/Source/observatory/MWOBS/WeatherPictureViewController.m
+c00000000537DEE8E00000000000005A3
+t1400761998
+s1443
+
+N/Users/cgraham/Source/observatory/MWOBS/main.m
+c00000000537DEE8E0000000000000180
+t1400761998
+s384
+
+N/Users/cgraham/Source/observatory/NorthViewController.m
+c00000000537DEE8E0000000000000515
+t1400761998
+s1301
+
+N/Users/cgraham/Source/observatory/ObsDeckViewController.m
+c00000000537DEE8E000000000000051F
+t1400761998
+s1311
+
+N/Users/cgraham/Source/observatory/Scott Badger.jpg
+c00000000537DEE8E0000000000030B0B
+t1400761998
+s199435
+
+N/Users/cgraham/Source/observatory/TFHpple.m
+c00000000537DEE8E0000000000001001
+t1400761998
+s4097
+
+N/Users/cgraham/Source/observatory/TFHppleElement.m
+c00000000537DEE8E000000000000199E
+t1400761998
+s6558
+
+N/Users/cgraham/Source/observatory/ThePresViewController.m
+c00000000537DEE8E0000000000000531
+t1400761998
+s1329
+
+N/Users/cgraham/Source/observatory/TheRaviViewController.m
+c00000000537DEE8E0000000000000525
+t1400761998
+s1317
+
+N/Users/cgraham/Source/observatory/WestViewController.m
+c00000000537DEE8E000000000000050E
+t1400761998
+s1294
+
+N/Users/cgraham/Source/observatory/XPathQuery.m
+c00000000537DEE8E0000000000001A91
+t1400761998
+s6801
+
+CBuild AST from /Users/cgraham/Source/observatory/FromAttiViewController.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/FromJackViewController.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/MWOBS/ConditionsViewController.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/MWOBS/DMRViewController.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/MWOBS/MWAppDelegate.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/MWOBS/MWEmailListViewController.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/MWOBS/MWGPSViewController.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/MWOBS/MWOngoingViewController.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/MWOBS/MWSettingsViewController.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/MWOBS/MWUpcomingViewController.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/MWOBS/Reachability.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/MWOBS/TheAboutViewController.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/MWOBS/WeatherPictureViewController.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/MWOBS/main.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/NorthViewController.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/ObsDeckViewController.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/TFHpple.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/TFHppleElement.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/ThePresViewController.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/TheRaviViewController.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/WestViewController.m
+r0
+
+CBuild AST from /Users/cgraham/Source/observatory/XPathQuery.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies37a766bf262eb941^d39f7dbf262eb941^---0#1#1#--18"Check dependencies36"F43E1215-7BD6-4E2E-BE92-0530FA659264-
+
+CCompileAssetCatalog /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app /Users/cgraham/Source/observatory/MWOBS/Images.xcassets
+r0
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ConditionsViewController.o /Users/cgraham/Source/observatory/MWOBS/ConditionsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454976.951966
+e422454977.086698
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ConditionsViewController.o
+x/Users/cgraham/Source/observatory/MWOBS/ConditionsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/MWOBS/ConditionsViewController.m
+d/Users/cgraham/Source/observatory/MWOBS/ConditionsViewController.h
+d/Users/cgraham/Source/observatory/TFHpple.h
+d/Users/cgraham/Source/observatory/TFHppleElement.h
+d/Users/cgraham/Source/observatory/MWOBS/Reachability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/cgraham/Source/observatory/MWOBS/ConditionsViewController.m240"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ConditionsViewController.o MWOBS/ConditionsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler92cff3c0262eb941^263716c1262eb941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/cgraham/Source/observatory/MWOBS/ConditionsViewController.m0000000000000000^3868"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ConditionsViewController.o MWOBS/ConditionsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ConditionsViewController.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ConditionsViewController.dia -c /Users/cgraham/Source/observatory/MWOBS/ConditionsViewController.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ConditionsViewController.o36"8106433E-28BB-47DB-B50F-DDAACCA597D6-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/DMRViewController.o /Users/cgraham/Source/observatory/MWOBS/DMRViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454977.343166
+e422454977.565058
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/DMRViewController.o
+x/Users/cgraham/Source/observatory/MWOBS/DMRViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/MWOBS/DMRViewController.m
+d/Users/cgraham/Source/observatory/MWOBS/DMRViewController.h
+d/Users/cgraham/Source/observatory/TFHpple.h
+d/Users/cgraham/Source/observatory/TFHppleElement.h
+d/Users/cgraham/Source/observatory/MWOBS/Reachability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/cgraham/Source/observatory/MWOBS/DMRViewController.m226"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/DMRViewController.o MWOBS/DMRViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd84559c1262eb941^d4b790c1262eb941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/cgraham/Source/observatory/MWOBS/DMRViewController.m0000000000000000^3826"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/DMRViewController.o MWOBS/DMRViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/DMRViewController.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/DMRViewController.dia -c /Users/cgraham/Source/observatory/MWOBS/DMRViewController.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/DMRViewController.o36"F40CFC42-7DDA-454D-A403-663531BD43D9-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromAttiViewController.o /Users/cgraham/Source/observatory/FromAttiViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454977.566323
+e422454977.664784
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromAttiViewController.o
+x/Users/cgraham/Source/observatory/FromAttiViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/FromAttiViewController.m
+d/Users/cgraham/Source/observatory/FromAttiViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/cgraham/Source/observatory/FromAttiViewController.m230"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromAttiViewController.o FromAttiViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf65d91c1262eb941^f2eda9c1262eb941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/cgraham/Source/observatory/FromAttiViewController.m0000000000000000^3844"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromAttiViewController.o FromAttiViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromAttiViewController.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromAttiViewController.dia -c /Users/cgraham/Source/observatory/FromAttiViewController.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromAttiViewController.o36"A7F0331E-02C9-4A4E-8E15-6F4FF4117BA7-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromJackViewController.o /Users/cgraham/Source/observatory/FromJackViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454977.139587
+e422454977.245903
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromJackViewController.o
+x/Users/cgraham/Source/observatory/FromJackViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/FromJackViewController.m
+d/Users/cgraham/Source/observatory/FromJackViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/cgraham/Source/observatory/FromJackViewController.m230"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromJackViewController.o FromJackViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera6d623c1262eb941^b2f33ec1262eb941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/cgraham/Source/observatory/FromJackViewController.m0000000000000000^3844"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromJackViewController.o FromJackViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromJackViewController.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromJackViewController.dia -c /Users/cgraham/Source/observatory/FromJackViewController.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromJackViewController.o36"DAD1BF81-B38B-4B68-BFC6-4290FD3B2544-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWAppDelegate.o /Users/cgraham/Source/observatory/MWOBS/MWAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454976.709911
+e422454976.951733
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWAppDelegate.o
+x/Users/cgraham/Source/observatory/MWOBS/MWAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/MWOBS/MWAppDelegate.m
+d/Users/cgraham/Source/observatory/MWOBS/MWAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/cgraham/Source/observatory/MWOBS/MWAppDelegate.m218"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWAppDelegate.o MWOBS/MWAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9dd6b5c0262eb941^c2a5f3c0262eb941^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/cgraham/Source/observatory/MWOBS/MWAppDelegate.m0000000000000000^3802"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWAppDelegate.o MWOBS/MWAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWAppDelegate.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWAppDelegate.dia -c /Users/cgraham/Source/observatory/MWOBS/MWAppDelegate.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWAppDelegate.o36"EDC4C9B0-0637-493C-8F3D-979B9E30A382-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWEmailListViewController.o /Users/cgraham/Source/observatory/MWOBS/MWEmailListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454977.390077
+e422454977.616086
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWEmailListViewController.o
+x/Users/cgraham/Source/observatory/MWOBS/MWEmailListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/MWOBS/MWEmailListViewController.m
+d/Users/cgraham/Source/observatory/MWOBS/MWEmailListViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/cgraham/Source/observatory/MWOBS/MWEmailListViewController.m242"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWEmailListViewController.o MWOBS/MWEmailListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfdf863c1262eb941^eb8ba0c1262eb941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/cgraham/Source/observatory/MWOBS/MWEmailListViewController.m0000000000000000^3874"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWEmailListViewController.o MWOBS/MWEmailListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWEmailListViewController.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWEmailListViewController.dia -c /Users/cgraham/Source/observatory/MWOBS/MWEmailListViewController.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWEmailListViewController.o36"4C59908B-316D-41C1-AD44-CCC449F79DA7-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWGPSViewController.o /Users/cgraham/Source/observatory/MWOBS/MWGPSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454977.093392
+e422454977.669167
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWGPSViewController.o
+x/Users/cgraham/Source/observatory/MWOBS/MWGPSViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/MWOBS/MWGPSViewController.m
+d/Users/cgraham/Source/observatory/MWOBS/MWGPSViewController.h
+d/Users/cgraham/Source/observatory/TFHpple.h
+d/Users/cgraham/Source/observatory/TFHppleElement.h
+d/Users/cgraham/Source/observatory/MWOBS/Reachability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/cgraham/Source/observatory/MWOBS/MWGPSViewController.m230"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWGPSViewController.o MWOBS/MWGPSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7e0218c1262eb941^ca4eabc1262eb941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/cgraham/Source/observatory/MWOBS/MWGPSViewController.m0000000000000000^3838"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWGPSViewController.o MWOBS/MWGPSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWGPSViewController.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWGPSViewController.dia -c /Users/cgraham/Source/observatory/MWOBS/MWGPSViewController.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWGPSViewController.o36"F76F8A95-A17E-4C75-9A2A-AB3D18A4524A-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWOngoingViewController.o /Users/cgraham/Source/observatory/MWOBS/MWOngoingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454977.640189
+e422454977.727106
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWOngoingViewController.o
+x/Users/cgraham/Source/observatory/MWOBS/MWOngoingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/MWOBS/MWOngoingViewController.m
+d/Users/cgraham/Source/observatory/MWOBS/MWOngoingViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/cgraham/Source/observatory/MWOBS/MWOngoingViewController.m238"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWOngoingViewController.o MWOBS/MWOngoingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8bffa3c1262eb941^a4e0b9c1262eb941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/cgraham/Source/observatory/MWOBS/MWOngoingViewController.m0000000000000000^3862"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWOngoingViewController.o MWOBS/MWOngoingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWOngoingViewController.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWOngoingViewController.dia -c /Users/cgraham/Source/observatory/MWOBS/MWOngoingViewController.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWOngoingViewController.o36"8EA3D102-6F91-4CE9-B13B-B6D1DC6B1407-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWSettingsViewController.o /Users/cgraham/Source/observatory/MWOBS/MWSettingsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454976.708895
+e422454976.937204
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWSettingsViewController.o
+x/Users/cgraham/Source/observatory/MWOBS/MWSettingsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/MWOBS/MWSettingsViewController.m
+d/Users/cgraham/Source/observatory/MWOBS/MWSettingsViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/cgraham/Source/observatory/MWOBS/MWSettingsViewController.m240"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWSettingsViewController.o MWOBS/MWSettingsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5396b5c0262eb941^882ef0c0262eb941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/cgraham/Source/observatory/MWOBS/MWSettingsViewController.m0000000000000000^3868"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWSettingsViewController.o MWOBS/MWSettingsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWSettingsViewController.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWSettingsViewController.dia -c /Users/cgraham/Source/observatory/MWOBS/MWSettingsViewController.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWSettingsViewController.o36"F2932932-4D0A-4CF2-A65A-30849B96F225-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWUpcomingViewController.o /Users/cgraham/Source/observatory/MWOBS/MWUpcomingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454977.526666
+e422454977.638809
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWUpcomingViewController.o
+x/Users/cgraham/Source/observatory/MWOBS/MWUpcomingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/MWOBS/MWUpcomingViewController.m
+d/Users/cgraham/Source/observatory/MWOBS/MWUpcomingViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/cgraham/Source/observatory/MWOBS/MWUpcomingViewController.m240"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWUpcomingViewController.o MWOBS/MWUpcomingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler23f586c1262eb941^6d8ea3c1262eb941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/cgraham/Source/observatory/MWOBS/MWUpcomingViewController.m0000000000000000^3868"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWUpcomingViewController.o MWOBS/MWUpcomingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWUpcomingViewController.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWUpcomingViewController.dia -c /Users/cgraham/Source/observatory/MWOBS/MWUpcomingViewController.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWUpcomingViewController.o36"E4AE781D-D4A7-4126-9767-5CE6A9432175-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/NorthViewController.o /Users/cgraham/Source/observatory/NorthViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454977.246199
+e422454977.389771
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/NorthViewController.o
+x/Users/cgraham/Source/observatory/NorthViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/NorthViewController.m
+d/Users/cgraham/Source/observatory/NorthViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/cgraham/Source/observatory/NorthViewController.m224"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/NorthViewController.o NorthViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere8663fc1262eb941^103c6ac1262eb941^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/cgraham/Source/observatory/NorthViewController.m0000000000000000^3826"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/NorthViewController.o NorthViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/NorthViewController.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/NorthViewController.dia -c /Users/cgraham/Source/observatory/NorthViewController.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/NorthViewController.o36"8CE74F02-FCF5-40FE-9D5C-B5CE3836D3C7-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ObsDeckViewController.o /Users/cgraham/Source/observatory/ObsDeckViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454977.194072
+e422454977.341870
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ObsDeckViewController.o
+x/Users/cgraham/Source/observatory/ObsDeckViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/ObsDeckViewController.m
+d/Users/cgraham/Source/observatory/ObsDeckViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/cgraham/Source/observatory/ObsDeckViewController.m228"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ObsDeckViewController.o ObsDeckViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbfd631c1262eb941^a8345ac1262eb941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/cgraham/Source/observatory/ObsDeckViewController.m0000000000000000^3838"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ObsDeckViewController.o ObsDeckViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ObsDeckViewController.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ObsDeckViewController.dia -c /Users/cgraham/Source/observatory/ObsDeckViewController.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ObsDeckViewController.o36"F4456280-839A-421B-9031-C53A82B0B0D6-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/Reachability.o /Users/cgraham/Source/observatory/MWOBS/Reachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454976.708687
+e422454977.235313
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/Reachability.o
+x/Users/cgraham/Source/observatory/MWOBS/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/MWOBS/Reachability.m
+d/Users/cgraham/Source/observatory/MWOBS/Reachability.h
+o/Users/cgraham/Source/observatory/MWOBS/Reachability.m:209:1: warning: method possibly missing a [super dealloc] call [-Wobjc-missing-super-calls]
+o}
+o^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/cgraham/Source/observatory/MWOBS/Reachability.m216"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/Reachability.o MWOBS/Reachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9b8db5c0262eb941^7f6a3cc1262eb941^-172"/Users/cgraham/Source/observatory/MWOBS/Reachability.m:209:1: warning: method possibly missing a [super dealloc] call [-Wobjc-missing-super-calls]}^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@46"Method possibly missing a [super dealloc] call-422454977#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@61"file:///Users/cgraham/Source/observatory/MWOBS/Reachability.m0000000000000000^208#0#208#0#7043#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@61"file:///Users/cgraham/Source/observatory/MWOBS/Reachability.m0000000000000000^3796"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/Reachability.o MWOBS/Reachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/Reachability.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/Reachability.dia -c /Users/cgraham/Source/observatory/MWOBS/Reachability.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/Reachability.o36"5C51D477-60BC-4B88-924C-041E65A3BB5B-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHpple.o /Users/cgraham/Source/observatory/TFHpple.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454977.665135
+e422454977.729955
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHpple.o
+x/Users/cgraham/Source/observatory/TFHpple.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/TFHpple.m
+d/Users/cgraham/Source/observatory/TFHpple.h
+d/Users/cgraham/Source/observatory/TFHppleElement.h
+d/Users/cgraham/Source/observatory/XPathQuery.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Users/cgraham/Source/observatory/TFHpple.m200"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHpple.o TFHpple.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd460aac1262eb941^a9debac1262eb941^---0#0#1#-19%DVTDocumentLocation2@50"file:///Users/cgraham/Source/observatory/TFHpple.m0000000000000000^3754"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHpple.o TFHpple.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHpple.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHpple.dia -c /Users/cgraham/Source/observatory/TFHpple.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHpple.o36"8EFB8C49-33AB-4156-A59F-61BF62EDCE89-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHppleElement.o /Users/cgraham/Source/observatory/TFHppleElement.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454977.617425
+e422454977.694031
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHppleElement.o
+x/Users/cgraham/Source/observatory/TFHppleElement.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/TFHppleElement.m
+d/Users/cgraham/Source/observatory/TFHppleElement.h
+d/Users/cgraham/Source/observatory/XPathQuery.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/cgraham/Source/observatory/TFHppleElement.m214"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHppleElement.o TFHppleElement.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilered2c9ec1262eb941^1fbdb1c1262eb941^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/cgraham/Source/observatory/TFHppleElement.m0000000000000000^3796"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHppleElement.o TFHppleElement.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHppleElement.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHppleElement.dia -c /Users/cgraham/Source/observatory/TFHppleElement.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHppleElement.o36"4230348B-8206-4DEF-A586-BBAAEE379FDA-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheAboutViewController.o /Users/cgraham/Source/observatory/MWOBS/TheAboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454976.937480
+e422454977.093167
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheAboutViewController.o
+x/Users/cgraham/Source/observatory/MWOBS/TheAboutViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/MWOBS/TheAboutViewController.m
+d/Users/cgraham/Source/observatory/MWOBS/TheAboutViewController.h
+o/Users/cgraham/Source/observatory/MWOBS/TheAboutViewController.m:68:28: warning: assigning to 'id<MFMailComposeViewControllerDelegate>' from incompatible type 'TheAboutViewController *'
+o    mc.mailComposeDelegate = self;
+o                           ^ ~~~~
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/cgraham/Source/observatory/MWOBS/TheAboutViewController.m236"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheAboutViewController.o MWOBS/TheAboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd718f0c0262eb941^66d917c1262eb941^-276"/Users/cgraham/Source/observatory/MWOBS/TheAboutViewController.m:68:28: warning: assigning to 'id<MFMailComposeViewControllerDelegate>' from incompatible type 'TheAboutViewController *'    mc.mailComposeDelegate = self;                           ^ ~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@104"Assigning to 'id<MFMailComposeViewControllerDelegate>' from incompatible type 'TheAboutViewController *'-422454977#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@71"file:///Users/cgraham/Source/observatory/MWOBS/TheAboutViewController.m0000000000000000^67#27#67#27#1778#0#14"Semantic Issue1(3@71"file:///Users/cgraham/Source/observatory/MWOBS/TheAboutViewController.m0000000000000000^67#29#67#33#1780#0#-0#0#1#-19%DVTDocumentLocation4@71"file:///Users/cgraham/Source/observatory/MWOBS/TheAboutViewController.m0000000000000000^3856"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheAboutViewController.o MWOBS/TheAboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheAboutViewController.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheAboutViewController.dia -c /Users/cgraham/Source/observatory/MWOBS/TheAboutViewController.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheAboutViewController.o36"E059E67E-C49A-47C8-8190-AEE2F08C0027-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ThePresViewController.o /Users/cgraham/Source/observatory/ThePresViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454976.709197
+e422454976.938640
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ThePresViewController.o
+x/Users/cgraham/Source/observatory/ThePresViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/ThePresViewController.m
+d/Users/cgraham/Source/observatory/ThePresViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/cgraham/Source/observatory/ThePresViewController.m228"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ThePresViewController.o ThePresViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler79b0b5c0262eb941^234df0c0262eb941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/cgraham/Source/observatory/ThePresViewController.m0000000000000000^3838"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ThePresViewController.o ThePresViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ThePresViewController.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ThePresViewController.dia -c /Users/cgraham/Source/observatory/ThePresViewController.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ThePresViewController.o36"E7E24F28-9B0B-4018-9C0E-5C3F712C2EC4-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheRaviViewController.o /Users/cgraham/Source/observatory/TheRaviViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454977.236712
+e422454977.368875
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheRaviViewController.o
+x/Users/cgraham/Source/observatory/TheRaviViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/TheRaviViewController.m
+d/Users/cgraham/Source/observatory/TheRaviViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/cgraham/Source/observatory/TheRaviViewController.m228"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheRaviViewController.o TheRaviViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler85b23cc1262eb941^b5356ac1262eb941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/cgraham/Source/observatory/TheRaviViewController.m0000000000000000^3838"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheRaviViewController.o TheRaviViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheRaviViewController.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheRaviViewController.dia -c /Users/cgraham/Source/observatory/TheRaviViewController.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheRaviViewController.o36"97FC1958-AA3F-4201-91C1-B54E4377D06B-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WeatherPictureViewController.o /Users/cgraham/Source/observatory/MWOBS/WeatherPictureViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454977.370214
+e422454977.525576
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WeatherPictureViewController.o
+x/Users/cgraham/Source/observatory/MWOBS/WeatherPictureViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/MWOBS/WeatherPictureViewController.m
+d/Users/cgraham/Source/observatory/MWOBS/WeatherPictureViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/cgraham/Source/observatory/MWOBS/WeatherPictureViewController.m248"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WeatherPictureViewController.o MWOBS/WeatherPictureViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler11e25ec1262eb941^87fa89c1262eb941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/cgraham/Source/observatory/MWOBS/WeatherPictureViewController.m0000000000000000^3892"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WeatherPictureViewController.o MWOBS/WeatherPictureViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WeatherPictureViewController.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WeatherPictureViewController.dia -c /Users/cgraham/Source/observatory/MWOBS/WeatherPictureViewController.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WeatherPictureViewController.o36"134AA217-8A98-4BEF-A43F-83320F57B406-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WestViewController.o /Users/cgraham/Source/observatory/WestViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454977.069668
+e422454977.192681
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WestViewController.o
+x/Users/cgraham/Source/observatory/WestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/WestViewController.m
+d/Users/cgraham/Source/observatory/WestViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/cgraham/Source/observatory/WestViewController.m222"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WestViewController.o WestViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler41f311c1262eb941^225431c1262eb941^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/cgraham/Source/observatory/WestViewController.m0000000000000000^3820"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WestViewController.o WestViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WestViewController.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WestViewController.dia -c /Users/cgraham/Source/observatory/WestViewController.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WestViewController.o36"AFB0FCA2-4588-4A68-885B-3FE59AB68AD3-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/XPathQuery.o /Users/cgraham/Source/observatory/XPathQuery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454976.941032
+e422454977.069346
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/XPathQuery.o
+x/Users/cgraham/Source/observatory/XPathQuery.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/XPathQuery.m
+d/Users/cgraham/Source/observatory/XPathQuery.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/tree.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xmlversion.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xmlexports.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xmlstring.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xmlregexp.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/dict.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xmlmemory.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/threads.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/globals.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/parser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/hash.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/valid.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xmlerror.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/list.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xmlautomata.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/entities.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/encoding.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xmlIO.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/SAX.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xlink.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/SAX2.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/HTMLparser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xpath.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xpathInternals.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Users/cgraham/Source/observatory/XPathQuery.m206"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/XPathQuery.o XPathQuery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1d00f1c0262eb941^40bd11c1262eb941^---0#0#1#-19%DVTDocumentLocation2@53"file:///Users/cgraham/Source/observatory/XPathQuery.m0000000000000000^3772"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/XPathQuery.o XPathQuery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/XPathQuery.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/XPathQuery.dia -c /Users/cgraham/Source/observatory/XPathQuery.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/XPathQuery.o36"C9842B7C-76C8-4AFC-9769-2C79EC57D3F8-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/main.o /Users/cgraham/Source/observatory/MWOBS/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454977.086943
+e422454977.139329
+r1
+xCompileC
+xDerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/main.o
+x/Users/cgraham/Source/observatory/MWOBS/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/MWOBS/main.m
+d/Users/cgraham/Source/observatory/MWOBS/MWAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Users/cgraham/Source/observatory/MWOBS/main.m200"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/main.o MWOBS/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler145e16c1262eb941^11ab23c1262eb941^---0#0#1#-19%DVTDocumentLocation2@53"file:///Users/cgraham/Source/observatory/MWOBS/main.m0000000000000000^3748"CompileC DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/main.o MWOBS/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -include /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/main.dia -c /Users/cgraham/Source/observatory/MWOBS/main.m -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/main.o36"C5168034-CAD8-48AC-B178-F04D3E2E5A17-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCompileStoryboard /Users/cgraham/Source/observatory/en.lproj/Storyboard.storyboard
+r0
+
+CCopyStringsFile /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/en.lproj/InfoPlist.strings MWOBS/en.lproj/InfoPlist.strings
+r0
+
+CCpResource /Users/YouTube-social_icon_pack-red-PNG/128px/YouTube-social-icon_red_128px.png DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/YouTube-social-icon_red_128px.png
+r0
+
+CCpResource /Users/cgraham/MWLogo.png DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWLogo.png
+s422454977.839770
+e422454977.842890
+r0
+xCpResource
+x/Users/cgraham/MWLogo.png
+xDerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWLogo.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWLogo.png112"CpResource /Users/cgraham/MWLogo.png DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWLogo.pngab08d7c1262eb941^d84ad8c1262eb941^-60"error: /Users/cgraham/MWLogo.png: No such file or directory1(21%IDEActivityLogMessage2@59"error: /Users/cgraham/MWLogo.png: No such file or directory-422454977#18446744073709551615#0#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#11"PBXCp Error--0#0#1#-19%DVTDocumentLocation4@116"file:///Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWLogo.png0034c8b9deffdf42^586"CpResource /Users/cgraham/MWLogo.png DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWLogo.png    cd /Users/cgraham/Source/observatory    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/cgraham/MWLogo.png /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app36"C9AD4D37-01AE-428F-B4B0-C4FE7469856F-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCpResource /Users/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_1024.png DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/FB-f-Logo__blue_1024.png
+r0
+
+CCpResource Al\ Lambert.jpg DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/Al\ Lambert.jpg
+r0
+
+CCpResource Alan\ Metcalf.jpg DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/Alan\ Metcalf.jpg
+r0
+
+CCpResource IMG_1906.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_1906.JPG
+r0
+
+CCpResource IMG_3218.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_3218.JPG
+r0
+
+CCpResource IMG_4606.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_4606.JPG
+r0
+
+CCpResource IMG_5195.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_5195.JPG
+r0
+
+CCpResource IMG_5885.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_5885.JPG
+r0
+
+CCpResource IMG_5889.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_5889.JPG
+r0
+
+CCpResource IMG_5930.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_5930.JPG
+r0
+
+CCpResource IMG_5958.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_5958.JPG
+s422454977.839525
+e422454977.843297
+r0
+xCpResource
+xIMG_5958.JPG
+xDerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_5958.JPG
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_5958.JPG101"CpResource IMG_5958.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_5958.JPG573ed7c1262eb941^9294d8c1262eb941^---1#0#1#-19%DVTDocumentLocation2@118"file:///Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_5958.JPG0034c8b9deffdf42^596"CpResource IMG_5958.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_5958.JPG    cd /Users/cgraham/Source/observatory    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/cgraham/Source/observatory/IMG_5958.JPG /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app36"E2136A3E-AD7A-42B3-8959-DA3F1C9ABBA1-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCpResource IMG_6006.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_6006.JPG
+r0
+
+CCpResource IMG_6158.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_6158.JPG
+s422454977.837680
+e422454977.859753
+r1
+xCpResource
+xIMG_6158.JPG
+xDerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_6158.JPG
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_6158.JPG101"CpResource IMG_6158.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_6158.JPG6a84d6c1262eb941^de1edcc1262eb941^---1#0#1#-19%DVTDocumentLocation2@118"file:///Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_6158.JPG0034c8b9deffdf42^596"CpResource IMG_6158.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_6158.JPG    cd /Users/cgraham/Source/observatory    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/cgraham/Source/observatory/IMG_6158.JPG /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app36"768374B2-7C0C-4F60-88A9-8D36231FA716-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCpResource IMG_6164.JPG DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/IMG_6164.JPG
+r0
+
+CCpResource Jim\ Salge.jpg DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/Jim\ Salge.jpg
+r0
+
+CCpResource Jon\ Cotton.jpg DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/Jon\ Cotton.jpg
+r0
+
+CCpResource June\ Rogier.jpg DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/June\ Rogier.jpg
+s422454977.836269
+e422454977.838262
+r1
+xCpResource
+xJune Rogier.jpg
+xDerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/June Rogier.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/June Rogier.jpg109"CpResource June\ Rogier.jpg DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/June\ Rogier.jpge929d6c1262eb941^b0aad6c1262eb941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/June%20Rogier.jpg0034c8b9deffdf42^608"CpResource June\ Rogier.jpg DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/June\ Rogier.jpg    cd /Users/cgraham/Source/observatory    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/cgraham/Source/observatory/June\ Rogier.jpg /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app36"8D8E4508-A101-4737-B2D6-92ECD5301B75-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCpResource KD\ Talbot.jpg DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/KD\ Talbot.jpg
+r0
+
+CCpResource Scott\ Badger.jpg DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/Scott\ Badger.jpg
+s422454977.839417
+e422454977.844840
+r1
+xCpResource
+xScott Badger.jpg
+xDerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/Scott Badger.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/Scott Badger.jpg111"CpResource Scott\ Badger.jpg DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/Scott\ Badger.jpg88d9d7c1262eb941^029ed8c1262eb941^---1#0#1#-19%DVTDocumentLocation2@124"file:///Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/Scott%20Badger.jpg0034c8b9deffdf42^611"CpResource Scott\ Badger.jpg DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/Scott\ Badger.jpg    cd /Users/cgraham/Source/observatory    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/cgraham/Source/observatory/Scott\ Badger.jpg /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app36"76533B95-F444-499C-BBCF-D16B79D7F191-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CCpResource Screen\ Shot\ 2014-05-16\ at\ 12.48.42\ PM.png DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/Screen\ Shot\ 2014-05-16\ at\ 12.48.42\ PM.png
+r0
+
+CCpResource below.jpg DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/below.jpg
+r0
+
+CCpResource download.jpeg DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/download.jpeg
+r0
+
+CGenerateDSYMFile /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app.dSYM /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWOBS
+r0
+
+CLd /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWOBS normal i386
+s422454977.732982
+e422454977.835120
+r1
+xLd
+x/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWOBS
+xnormal
+xi386
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWOBS.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/Reachability.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWSettingsViewController.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ThePresViewController.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWAppDelegate.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheAboutViewController.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/XPathQuery.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ConditionsViewController.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WestViewController.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/main.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWGPSViewController.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromJackViewController.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/ObsDeckViewController.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TheRaviViewController.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/NorthViewController.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/DMRViewController.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/WeatherPictureViewController.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWEmailListViewController.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWUpcomingViewController.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/FromAttiViewController.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHppleElement.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWOngoingViewController.o
+d/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/TFHpple.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libxml2.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Link /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWOBS85"Ld DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWOBS normal i386cfbdbbc1262eb941^68cbd5c1262eb941^---0#0#1#--1519"Ld DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWOBS normal i386    cd /Users/cgraham/Source/observatory    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator -filelist /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWOBS.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework SystemConfiguration -framework MessageUI -lxml2 -framework CoreLocation -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/Objects-normal/i386/MWOBS_dependency_info.dat -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/MWOBS36"633AD6F8-D1EC-49E8-97AD-523A431A3C33-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CProcessInfoPlistFile /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app/Info.plist /Users/cgraham/Source/observatory/MWOBS/MWOBS-Info.plist
+r0
+
+CProcessPCH /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch.pch MWOBS/MWOBS-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422454975.492035
+e422454976.708068
+r1
+xProcessPCH
+x/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch.pch
+xMWOBS/MWOBS-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgraham/Source/observatory/MWOBS/MWOBS-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile MWOBS/MWOBS-Prefix.pch221"ProcessPCH DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch.pch MWOBS/MWOBS-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4e457ebf262eb941^9a44b5c0262eb941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/cgraham/Source/observatory/MWOBS/MWOBS-Prefix.pch0000000000000000^3650"ProcessPCH DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch.pch MWOBS/MWOBS-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgraham/Source/observatory    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/cgraham/Source/observatory/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-generated-files.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-own-target-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-all-target-headers.hmap -iquote /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/MWOBS-project-headers.hmap -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources/i386 -I/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/MWOBS.build/Debug-iphonesimulator/MWOBS.build/DerivedSources -F/Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch.dia -MMD -MT dependencies -MF /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch.d -c /Users/cgraham/Source/observatory/MWOBS/MWOBS-Prefix.pch -o /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Intermediates/PrecompiledHeaders/MWOBS-Prefix-cywffusyotmsuyeimhgkpqtnddjs/MWOBS-Prefix.pch.pch36"B6321590-437F-49ED-A306-E6ED21E90A38-
+bE4132BF7-D289-46AA-AF5D-E5491E17DF09
+
+CProcessPCH /Users/cgraham/Source/observatory/DerivedData/MWOBS/Index/PrecompiledHeaders/MWOBS-Prefix-afwzbbxxckybqeboctmuxcfeefxc_ast/MWOBS-Prefix.pch.pch MWOBS/MWOBS-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/cgraham/Source/observatory/DerivedData/MWOBS/Build/Products/Debug-iphonesimulator/MWOBS.app
+r0
+
