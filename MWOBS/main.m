@@ -12,7 +12,7 @@
 
 int hour = 8;
 int minute = 0;
-bool notify = true;
+bool notify = false;
 
 int main(int argc, char * argv[])
 {
